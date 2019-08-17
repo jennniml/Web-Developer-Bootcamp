@@ -1,0 +1,13 @@
+.jumbotron {
+	margin-top: 32px;
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.col-lg-4 {
+	padding: 15px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: white;
+}
